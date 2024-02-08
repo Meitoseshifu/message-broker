@@ -1,0 +1,6 @@
+POST http://93.175.204.87:8080/messages
+Content-Type: application/json
+
+{
+  "body": "trali vali festivali"
+}
